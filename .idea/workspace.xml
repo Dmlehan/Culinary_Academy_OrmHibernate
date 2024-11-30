@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7383797-7d80-4017-800b-b55bfcbbd44b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Hibernate_Coursework" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2pV12AetDOZj1nCS2XwFtUZ2JIf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/A2024 -D/11/3/Culinary_Academy_OrmHibernate/Hibernate_Coursework/src/main/java/lk/ijse",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\A2024 -D\11\3\Culinary_Academy_OrmHibernate\Hibernate_Coursework\src\main\java\lk\ijse" />
+      <recent name="D:\A2024 -D\11\3\Culinary_Academy_OrmHibernate\Hibernate_Coursework\src\main\resources\images" />
+      <recent name="D:\A2024 -D\11\3\Culinary_Academy_OrmHibernate\Hibernate_Coursework\src\main\resources" />
+      <recent name="D:\A2024 -D\11\3\Culinary_Academy_OrmHibernate\Hibernate_Coursework\src\main\resources\view" />
+      <recent name="D:\A2024 -D\11\3\Culinary_Academy_OrmHibernate\Hibernate_Coursework\src\main\java\lk\ijse\bo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lk.ijse.controller" />
+      <recent name="lk.ijse.dao.impl" />
+      <recent name="lk.ijse.config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JavaFX App" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Launcher" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\javafx-sdk-19.0.2.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7383797-7d80-4017-800b-b55bfcbbd44b" name="Changes" comment="" />
+      <created>1732836218712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732836218712</updated>
+      <workItem from="1732836219897" duration="9996000" />
+      <workItem from="1732918229012" duration="16733000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added factoryConfiguration">
+      <option name="closed" value="true" />
+      <created>1732837239269</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732837239269</updated>
+    </task>
+    <task id="LOCAL-00002" summary="finished user form">
+      <option name="closed" value="true" />
+      <created>1732890901510</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732890901510</updated>
+    </task>
+    <task id="LOCAL-00003" summary="completed dash board">
+      <option name="closed" value="true" />
+      <created>1732919052496</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732919052496</updated>
+    </task>
+    <task id="LOCAL-00004" summary="all completed">
+      <option name="closed" value="true" />
+      <created>1732937597833</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732937597833</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added factoryConfiguration" />
+    <MESSAGE value="finished user form" />
+    <MESSAGE value="completed dash board" />
+    <MESSAGE value="all completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="all completed" />
+  </component>
+</project>
